@@ -16,8 +16,6 @@ This video lessons walks through the process of building a CLI Gem with a focus 
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/Y5X6NRQi0bU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[MP4](Find learn s3 source?)
-
 
 ## Summary
 
