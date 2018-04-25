@@ -80,3 +80,4 @@ This video lessons walks through the process of building a CLI Gem with a focus 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem'>OO Ruby CLI Data Gem Walkthrough: Creating a CLI Scraper Gem </a> on Learn.co and start learning to code for free.</p>
 
 This video is meant as optional supplemental material to augment the written curriculum. If you feel you already understand the process of building a CLI Gem with a focus on classes that collaborate than you are welcome to skip the video and continue forward. Feel free to come back here if you ever want a review.
+<p data-visibility='hidden'>PHRG Overview</p>

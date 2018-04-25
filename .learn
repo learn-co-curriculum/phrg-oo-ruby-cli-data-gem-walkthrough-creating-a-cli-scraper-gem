@@ -3,3 +3,4 @@ tags:
 languages:
   - language1
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem.git
